@@ -3,9 +3,13 @@
 }
 
 .strong {
-
+  font-weight: bold;
 }
 
 .current-date {
-  
+
+}
+
+.container {
+
 }
